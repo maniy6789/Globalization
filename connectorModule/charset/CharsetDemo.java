@@ -6,6 +6,7 @@ import java.nio.charset.Charset;
 public class CharsetDemo {
 
 	public static void bytesDemo() throws UnsupportedEncodingException {
+		// charset next version
 		// TODO Auto-generated method stub
 		// スクリプト・ヘッダー・セクション
 //		 String s = "Ab";
