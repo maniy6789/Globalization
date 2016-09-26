@@ -47,18 +47,8 @@ public class CharsetDemo {
 		//System.out.println(Charset.defaultCharset().displayName());
 	}
 	
-	public static void hitMethod() {
-		String s1 = "http://test-developer-edition.localhost.force.com:6109/css/img/icon/tasks16.png";
-		String s2 = "http://test-developer-edition.localhost.force.com:6109/css/img/icon/tasks16.png";
-		
-		if (s1 == s2) {
-			System.out.println("hit");
-		}
-	}
 	public static void main(String[] args) throws UnsupportedEncodingException {
 		bytesDemo();
-		// hitMethod();
-		
 	}
 
 }
